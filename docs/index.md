@@ -3,6 +3,16 @@ title: "ProQuest TDM Studio: Information, Tutorials, and Workshops"
 layout: "home"
 description: "ProQuest TDM Studio is a web platform for running text analyses on thousands of ProQuest materials, including but not limited to, ProQuest Dissertations & Theses and the New York Times."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Kara Handren
+   link: https://library.utoronto.ca/staff/kara-handren
+maintainer:
+ - name: Kara Handren
+   link: https://library.utoronto.ca/staff/kara-handren
+ - name: Nick Field
+   link: https://library.utoronto.ca/staff/nick-field
+ - name: Neil Aitken
+   link: https://library.utoronto.ca/staff/neil-aitken
 ---
 
 # ProQuest TDM Studio: Information, Tutorials, and Workshops
