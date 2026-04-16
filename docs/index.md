@@ -47,6 +47,6 @@ Learning resources
 * [Carnegie Mellon University's Text and Data Mining with TDM Studio](https://guides.library.cmu.edu/TDMStudio)
 * [University of Chicago's TDM Studio guide](https://guides.lib.uchicago.edu/tdmstudio)
 
-Technique: [Data Visualization](/technique/data-visualization), [Text and Data Mining](/technique/text-and-data-mining), [Extracting data](/technique/extracting-data)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data)
 
 **Date Created:** 2022\-05\-09 **Updated:** 2023\-06\-02
