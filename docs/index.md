@@ -13,6 +13,7 @@ maintainer:
    link: https://library.utoronto.ca/staff/nick-field
  - name: Neil Aitken
    link: https://library.utoronto.ca/staff/neil-aitken
+created_date: 2022-05-09
 ---
 
 # ProQuest TDM Studio: Information, Tutorials, and Workshops
@@ -48,5 +49,3 @@ Learning resources
 * [University of Chicago's TDM Studio guide](https://guides.lib.uchicago.edu/tdmstudio)
 
 **Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data)
-
-**Date Created:** 2022\-05\-09 **Updated:** 2023\-06\-02
